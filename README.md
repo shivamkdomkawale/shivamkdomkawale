@@ -10,7 +10,7 @@ Passionate about continuous learning, innovation, and solving complex problems t
 
 * 🌍  I'm based in Nagpur, Maharashtra, India
 * ✉️  You can contact me at [shivamkdomkawale@gmail.com](mailto:shivamkdomkawale@gmail.com)
-* 🚀  I'm currently working on [Sunyatee International Foundation](http://sifworld.com/)
+* 🚀  I'm currently working in [Sunyatee International Foundation](http://sifworld.com/)
 * 🧠  I'm currently learning AI & Automation | Devops | Machine learning
 * 👥  I'm looking to collaborate on Full stack Projects
 * 💬  Ask me about I Hide Secrets
